@@ -13,3 +13,9 @@ Move along
 * [rghost_barcode](https://github.com/shairontoledo/rghost-barcode/wiki)
 * [barcodes](https://github.com/infinitetoken/barcodes)
 
+# Instructions
+
+To try your hand, go into each subfolder and run the following to install dependencies
+
+	$ bundle install --path ./bundle
+
