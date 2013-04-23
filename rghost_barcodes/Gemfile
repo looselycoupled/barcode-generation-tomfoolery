@@ -1,0 +1,5 @@
+source 'http://rubygems.org'
+
+
+gem 'rghost'
+gem 'rghost_barcode'
